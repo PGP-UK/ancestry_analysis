@@ -1,0 +1,14 @@
+
+======================
+ IMPUTE version 2.3.2 
+======================
+
+Copyright 2008 Bryan Howie, Peter Donnelly, and Jonathan Marchini
+Please see the LICENCE file included with this program for conditions of use.
+
+The seed for the random number generator is 1893222983.
+
+Command-line input: /Users/jacksonc08/Downloads/impute_v2.3.2_MacOSX_Intel/impute2  -m ./Example/example.chr22.map  -h ./Example/example.chr22.1kG.haps  -l ./Example/example.chr22.1kG.legend  -g ./Example/example.chr22.study.gens  -strand_g ./Example/example.chr22.study.strand  -int 20.4e6 20.5e6  -Ne 20000  -o ./Example/example.chr22.one.phased.impute2
+
+ERROR: You must specify a valid interval for imputation using the -int argument.
+
