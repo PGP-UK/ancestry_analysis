@@ -1,0 +1,3 @@
+#pca,kidd,/Users/jacksonc08/.ezancestry/data/models,/Users/jacksonc08/.ezancestry/data/aisnps
+,component1,component2,component3,predicted_population_population,ACB,ASW,BEB,CDX,CEU,CHB,CHS,CLM,ESN,FIN,GBR,GIH,GWD,IBS,ITU,JPT,KHV,LWK,MSL,MXL,PEL,PJL,PUR,STU,TSI,YRI,predicted_population_superpopulation,AFR,AMR,EAS,EUR,SAS,population_description,superpopulation_name
+HaplotypeCaller_subset.kidd.vcf,-0.9945106738634686,-0.526378620676327,-0.050670301400316586,ITU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34499011170627875,0.0,0.0,0.36610735637207864,0.0,0.0,0.0,0.0,0.0,0.0,0.12003761820786732,0.08160867290440173,0.08725624080937364,0.0,0.0,SAS,0.0,0.10365640641702414,0.0,0.0,0.8963435935829759,Indian Telugu in the UK,South Asian Ancestry
